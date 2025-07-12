@@ -22,44 +22,63 @@
 ---
 
 <h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  </a>
-  <a href="https://gin-gonic.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="40" height="40"/>
-  </a>
-  <a href="https://gorm.io/" target="_blank">
-    <img src="https://gorm.io/assets/img/logo.svg" alt="Gorm" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  
+  <div style="background: #00ADD8; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="30" height="30" style="margin-right:8px;" />
+    Go
+  </div>
+
+  <div style="background: #de3c32; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
+    <img src="https://gin-gonic.com/img/logo.png" alt="Gin" width="30" height="30" style="margin-right:8px;" />
+    Gin
+  </div>
+  
+  <div style="background: #61DBFB; color: black; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30" style="margin-right:8px;" />
+    React
+  </div>
+
+  <div style="background: #06B6D4; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="30" height="30" style="margin-right:8px;" />
+    Tailwind
+  </div>
+
+  <div style="background: #F7DF1E; color: black; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="margin-right:8px;" />
+    JavaScript
+  </div>
+
+  <div style="background: #3776AB; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right:8px;" />
+    Python
+  </div>
+
+  <div style="background: #4479A1; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" style="margin-right:8px;" />
+    MySQL
+  </div>
+
+
+  <div style="background: #E34F26; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" style="margin-right:8px;" />
+    HTML5
+  </div>
+
+  <div style="background: #1572B6; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30" style="margin-right:8px;" />
+    CSS3
+  </div>
+
+
+  <div style="background: #FCC624; color: black; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" style="margin-right:8px;" />
+    Linux
+  </div>
+
+</div>
+
 
 ---
 
