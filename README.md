@@ -1,83 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abrham Yishak Yifat</h1>
 <h3 align="center">Software Developer | Problem Solver | Tech Enthusiast</h3>
 
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/abrhamyishak" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/abrham yishak yifat" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/ab_best" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/abrhamyishak" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/abrhamyishak) 
+
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=philapheda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=philapheda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=philapheda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=philapheda&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages & Tools:</h3>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  
-  <div style="background: #00ADD8; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="30" height="30" style="margin-right:8px;" />
-    Go
-  </div>
-
-  <div style="background: #de3c32; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
-    <img src="https://gin-gonic.com/img/logo.png" alt="Gin" width="30" height="30" style="margin-right:8px;" />
-    Gin
-  </div>
-  
-  <div style="background: #61DBFB; color: black; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30" style="margin-right:8px;" />
-    React
-  </div>
-
-  <div style="background: #06B6D4; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="30" height="30" style="margin-right:8px;" />
-    Tailwind
-  </div>
-
-  <div style="background: #F7DF1E; color: black; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="margin-right:8px;" />
-    JavaScript
-  </div>
-
-  <div style="background: #3776AB; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right:8px;" />
-    Python
-  </div>
-
-  <div style="background: #4479A1; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" style="margin-right:8px;" />
-    MySQL
-  </div>
-
-
-  <div style="background: #E34F26; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" style="margin-right:8px;" />
-    HTML5
-  </div>
-
-  <div style="background: #1572B6; color: white; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30" style="margin-right:8px;" />
-    CSS3
-  </div>
-
-
-  <div style="background: #FCC624; color: black; padding: 10px 15px; border-radius: 10px; display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" style="margin-right:8px;" />
-    Linux
-  </div>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ---
