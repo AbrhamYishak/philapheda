@@ -23,7 +23,3 @@
 ![Gin](https://img.shields.io/badge/gin-%23de3c32.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=philapheda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=philapheda&theme=dark&hide_border=false)<br/>
